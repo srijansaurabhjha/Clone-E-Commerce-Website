@@ -1,0 +1,13 @@
+.all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-center {
+  text-align: center;
+}
+
+.my-1 {
+  padding: 5px 0;
+  margin: 0;
+}
